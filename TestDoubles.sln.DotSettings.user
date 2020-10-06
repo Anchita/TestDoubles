@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1b1330d4_002D8c0e_002D4a02_002D8063_002D3c08ac2895b0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CopierTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FCCEEC16-BBC5-4719-93B4-57AD3F5C0F10::.NETFramework,Version=v4.7.2::TestDoubles.CopierTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=36046905_002De4c0_002D4bd3_002Daed8_002Dee5f4e4a3f6e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenAStringWith1CharacterAndNewline__WhenCopierIsCalled__ThenCopy" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FCCEEC16-BBC5-4719-93B4-57AD3F5C0F10::.NETFramework,Version=v4.7.2::TestDoubles.CopierTests.GivenAStringWith1CharacterAndNewline__WhenCopierIsCalled__ThenCopy&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FCCEEC16-BBC5-4719-93B4-57AD3F5C0F10::.NETFramework,Version=v4.7.2::TestDoubles.CopierTests.GivenAStringWith1CharacterAndNewline__WhenCopierIsCalled__ThenCopy("A\n",1)&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6e930720_002Db36d_002D460c_002Da1a8_002D634f06f9606d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenNewLine__WhenCopierIsCalled__ThenDoNotCopy #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FCCEEC16-BBC5-4719-93B4-57AD3F5C0F10::.NETFramework,Version=v4.7.2::TestDoubles.CopierTests.GivenNewLine__WhenCopierIsCalled__ThenDoNotCopy&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cb7c06d0_002D4dce_002D493d_002Da1c5_002D2d93468e9831/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenNewLine__WhenCopierIsCalled__ThenDoNotCopy" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FCCEEC16-BBC5-4719-93B4-57AD3F5C0F10::.NETFramework,Version=v4.7.2::TestDoubles.CopierTests.GivenNewLine__WhenCopierIsCalled__ThenDoNotCopy&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FCCEEC16-BBC5-4719-93B4-57AD3F5C0F10::.NETFramework,Version=v4.7.2::TestDoubles.CopierTests.GivenAStringWith1CharacterAndNewline__WhenCopierIsCalled__ThenCopy&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FCCEEC16-BBC5-4719-93B4-57AD3F5C0F10::.NETFramework,Version=v4.7.2::TestDoubles.CopierTests.GivenAStringWithoutNewline__WhenCopierIsCalled__ThenThrowException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
